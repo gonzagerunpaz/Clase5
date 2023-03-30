@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Gerardo",
+        "dni": 24911146,
+        "libreta": true,
+        "domicilio": {
+            "calle": "RioBamba",
+            "nro": 158,
+            "localidad": "JCPAZ"
+        }
+    },
+    {
+        "nombre": "Florencia",
+        "dni": 24535032,
+        "libreta": false,
+        "domicilio": {
+            "calle": "San Juan",
+            "nro": 275,
+            "localidad": "JCPAZ"
+        }        
+    },
+    {
+        "nombre": "Pablo",
+        "dni": 49810143,
+        "libreta": false,
+        "domicilio": {
+            "calle": "San Martin",
+            "nro": 2600,
+            "localidad": "SANMIGUEL"
+        }        
+    },
+    {
+        "nombre": "Dolores",
+        "dni": 52675670,
+        "libreta": true,
+        "domicilio": {
+            "calle": "Tucuman",
+            "nro": 400,
+            "localidad": "JCPAZ"
+        }        
+    }    
+]
