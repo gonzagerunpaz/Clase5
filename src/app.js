@@ -5,6 +5,7 @@ const { docentesRuta } = require('./routes/docentes.route')
 const app = express()
 const PORT = process.env.PORT || 3000
 
+app.use(express.json())
 app.use(alumnosRuta)
 app.use(docentesRuta)
 
